@@ -2,7 +2,7 @@
 
 namespace Xiaodukang20\Kxy\Utils;
 
-use App\Constants\ErrorCode;
+use Xiaodukang20\Kxy\Constants\ErrorCode;
 
 class Result
 {
