@@ -1,0 +1,24 @@
+{
+  "name": "xiaodukang20/kxy",
+  "type": "library",
+  "description": "kxycrm.com  common code",
+  "keywords" : ["kxy", "kxycrm", "jizhikeji"],
+  "homepage" : "https://www.jizhikeji.net/",
+  "license" : "Apache-2.0",
+  "authors": [
+    {
+      "name": "jizhi"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "ext-json": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Xiaodukang20\\Kxy\\": "src/"
+    }
+  }
+}
